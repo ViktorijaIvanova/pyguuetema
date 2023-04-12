@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9d6dde72-fdcd-406a-be83-efb5779c88c1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1.osa_loomine.py</StartupFile>
+    <StartupFile>2_osa.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="1.osa_loomine.py" />
+    <Compile Include="2_osa.py" />
     <Compile Include="pyguuetema.py" />
   </ItemGroup>
   <ItemGroup>
